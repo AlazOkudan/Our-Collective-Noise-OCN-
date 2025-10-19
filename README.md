@@ -229,19 +229,5 @@ Users are responsible for ensuring their use aligns with the project's tactical 
 
 This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-- 🐛 **Issues**: [GitHub Issues](https://github.com/AlazOkudan/Our-Collective-Noise-OCN-/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/AlazOkudan/Our-Collective-Noise-OCN-/discussions)
-
-## Acknowledgments
-
-- [YOLO](https://pjreddie.com/darknet/yolo/) by Joseph Redmon and Ali Farhadi
-- [OpenCV](https://opencv.org/) computer vision library
-- Tactical media practitioners and theorists
-- Privacy technology and digital rights communities
-- Researchers exploring noise, anonymity, and collective action
-
----
 
 **A tactical media project for collective anonymity and technological resistance** 🔒✊🎨

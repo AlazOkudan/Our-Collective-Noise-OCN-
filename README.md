@@ -16,7 +16,8 @@ This project was developed as part of published research on tactical media and s
 
 Okudan, Alaz. (2025). Our Collective Noise (OCN): A Tactical Response to Computer Vision, Surveillance, and Noise. Paper presented at the XCOAX 2025, 13th Conference on Computation, Communication, Aesthetics & X. Dundee, Scotland, 9-11 July, https://doi.org/10.34626/2025_xcoax_x_02
 
-We version available from: https://classof25.xcoax.org/paper02.html
+Web version available from: https://classof25.xcoax.org/paper02.html
+
 PDF available from: https://hdl.handle.net/10379/19262
 
 **Abstract**: *Our Collective Noise (OCN) is a research-based tactical media project. As an attempt to transform the top-down pervasive qualities of machine learning (ML), computer vision (CV), and surveillance technologies into a bottom-up tactical tool, it plays around the concepts of noise, de-identification, accidental aesthetics, and human-machine collaboration. OCN, as an offline system, uses live webcam feed, ML, and CV to detect people and simultaneously turn them into coarse pixels to replace the common aim of precise identification in surveillance technologies with anonymity. Coarse pixels are constantly stitched together to create collective abstract human-machine interaction patterns that people are collectively and unidentifiably part of. In a world where thriving ML, CV, and AI (artificial intelligence) technologies increasingly rely on cleaner datasets, higher processing capacities, precise labels and categories, OCN turns the technology against itself, in pursuit of revealing the latent potential in noise, anonymity, and collective action.*
